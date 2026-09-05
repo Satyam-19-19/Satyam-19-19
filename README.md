@@ -3,7 +3,7 @@
 <h1 align="center">I'm Satyam Maurya</h1>
 <h3 align="center">💻 Full-Stack Web Developer | Passionate about React, Node.js, and Building Scalable Websites</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://satyam1919.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://satyamportfolio-ai.vercel.app/)
 
 
 - 📫 You can reach me at [smauryachs44@gmail.com](mailto:smauryachs44@gmail.com)
